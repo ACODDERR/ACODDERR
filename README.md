@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Aman Wankhede ! 👋<br><br>I'm a MERN Stack Developer passionate about building dynamic web applications. Welcome to my GitHub profile!<br><br>- 🔭 I’m currently working on creating interactive user interfaces with React.<br>- 🌱 I’m currently learning about server-side rendering and advanced Redux patterns.<br>- 👯 I’m looking to collaborate on projects that involve the MERN stack.<br>- 💬 Ask me about developing full-stack applications, REST APIs, and database design.<br>- ⚡ Fun fact: I love to explore new coding challenges and experiment with new Skills
+# Hi there, I'm Aman Wankhede ! 👋<br><br>I'm a MEAN Stack Developer passionate about building dynamic web applications. Welcome to my GitHub profile!<br><br>- 🔭 I’m currently working on creating interactive user interfaces with React.<br>- 🌱 I’m currently learning about server-side rendering and advanced Redux patterns.<br>- 👯 I’m looking to collaborate on projects that involve the MEAN stack.<br>- 💬 Ask me about developing full-stack applications, REST APIs, and database design.<br>- ⚡ Fun fact: I love to explore new coding challenges and experiment with new Skills
 
 
 ## 🌐 Socials:
